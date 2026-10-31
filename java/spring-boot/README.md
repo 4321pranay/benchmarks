@@ -7,6 +7,10 @@ the way a developer actually hits the problem ("Hikari logs 'Connection is not a
 
 Held out from training data. No question was taken from a public benchmark.
 
+**Review status: 0 of 110 reviewed.** Every record carries `"reviewed": false` — the questions and
+reference answers were written by hand, but none has been re-checked against the documentation
+since, so the baselines below are measured against unverified references.
+
 ## Coverage
 
 Roughly ten questions per area, in file order:
