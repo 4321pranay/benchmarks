@@ -21,6 +21,8 @@ migration / versions · debugging / troubleshooting · architecture / design
 
 Because the areas run in file order, the usual blocks of ten (1–10, 11–20, …) line up with them.
 
+Actuator is part of the Spring Boot reference documentation, so its questions live here rather than in a suite of their own — the `actuator / observability` block covers endpoints, health groups and metrics export. That block is the highest-priority part of this suite: it is the one that explains production incidents.
+
 ## Baselines
 
 Measured with a local Qwen3-8B (12k context) answering, the same model judging on the 0/1/2

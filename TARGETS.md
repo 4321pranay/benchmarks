@@ -19,7 +19,6 @@ Priority means: **high** = explains production incidents · **medium** = core fr
 | [`java/micrometer`](java/micrometer) | high | placeholder | Micrometer |
 | [`java/pgjdbc`](java/pgjdbc) | high | placeholder | PostgreSQL JDBC driver |
 | [`java/resilience4j`](java/resilience4j) | high | placeholder | Resilience4j |
-| [`java/spring-boot-actuator`](java/spring-boot-actuator) | high | placeholder | Spring Boot Actuator |
 | [`java/spring-cloud-gateway`](java/spring-cloud-gateway) | high | placeholder | Spring Cloud Gateway |
 | [`java/spring-cloud-openfeign`](java/spring-cloud-openfeign) | high | placeholder | Spring Cloud OpenFeign |
 | [`java/spring-cloud-stream`](java/spring-cloud-stream) | high | placeholder | Spring Cloud Stream |
